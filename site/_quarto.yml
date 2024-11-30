@@ -1,20 +1,22 @@
 project:
   type: website
-  output-dir: ../docs
+  output-dir: ..
 
 website:
-  title: "site"
+  title: "Nic Steyn"
+  search: false
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: papers.qmd
+        text: Research outputs
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
-    toc: true
+    toc: false
 
 
 

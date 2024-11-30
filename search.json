@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "site",
+    "title": "Nic Steyn",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Github\n  \n  \n      Google Scholar\n  \n  \n    \n     Email\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n\n  \n  \n\n\nI am a doctoral student on the Modern Statistics and Statistical Machine Learning CDT at the University of Oxford, supervised by Professor Christl Donnelly and Dr Kris V Parag.\nMy thesis focusses on robust statistical methods for analysing infectious disease dynamics with an emphasis on flexible methodology and valid uncertainty quantification. My research combines Bayesian inference, sequential Monte Carlo methods, and epidemiological modelling, with applications to standard epidemiological data, as well as survey data and wastewater-based surveillance.\nDuring my studies, I have also worked as a research assistant in the The Global Reference Group for Children Affected by Crisis, estimating orphanhood in Brazil during the COVID-19 pandemic (publication coming soon), and have held a variety of tutoring positions (departmental, college, and inter-departmental courses).\nPast experience includes modelling for policymakers during the COVID-19 pandemic in my home country of New Zealand (March 2020 - September 2021), a quantitative trading internship at Optiver in Sydney (November 2019 - January 2020), and a data analysis internship at a startup in Bangkok (January - February 2018).\n\n\n\nUniversity of Oxford | Oxford, United Kingdom DPhil in Statistics | 2021 - 2025\nUniversity of Canterbury | Christchurch, New Zealand BSc (Hons) Compuational and Applied Mathematics | 2019 Awarded with first class\nUniversity of Canterbury | Christchurch, New Zealand BSc Financial Engineering and Statistics | 2016 - 2018 GPA: 8.96 out of 9\nI also studied statistics at National University of Singapore on an exchange programme in 2018."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Nic Steyn",
+    "section": "",
+    "text": "I am a doctoral student on the Modern Statistics and Statistical Machine Learning CDT at the University of Oxford, supervised by Professor Christl Donnelly and Dr Kris V Parag.\nMy thesis focusses on robust statistical methods for analysing infectious disease dynamics with an emphasis on flexible methodology and valid uncertainty quantification. My research combines Bayesian inference, sequential Monte Carlo methods, and epidemiological modelling, with applications to standard epidemiological data, as well as survey data and wastewater-based surveillance.\nDuring my studies, I have also worked as a research assistant in the The Global Reference Group for Children Affected by Crisis, estimating orphanhood in Brazil during the COVID-19 pandemic (publication coming soon), and have held a variety of tutoring positions (departmental, college, and inter-departmental courses).\nPast experience includes modelling for policymakers during the COVID-19 pandemic in my home country of New Zealand (March 2020 - September 2021), a quantitative trading internship at Optiver in Sydney (November 2019 - January 2020), and a data analysis internship at a startup in Bangkok (January - February 2018)."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nic Steyn",
+    "section": "",
+    "text": "University of Oxford | Oxford, United Kingdom DPhil in Statistics | 2021 - 2025\nUniversity of Canterbury | Christchurch, New Zealand BSc (Hons) Compuational and Applied Mathematics | 2019 Awarded with first class\nUniversity of Canterbury | Christchurch, New Zealand BSc Financial Engineering and Statistics | 2016 - 2018 GPA: 8.96 out of 9\nI also studied statistics at National University of Singapore on an exchange programme in 2018."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Pre-prints",
+    "section": "",
+    "text": "Steyn, N., & Parag, K. V. Robust uncertainty quantification in popular estimators of the instantaneous reproduction number. medRxiv preprint. https://doi.org/10.1101/2024.10.22.24315918\nSteyn, N., Parag, K. V., & Donnelly, C. A. A primer on inference and prediction with epidemic renewal models using sequential Monte Carlo methods. Link to PDF"
+  },
+  {
+    "objectID": "papers.html#footnotes",
+    "href": "papers.html#footnotes",
+    "title": "Pre-prints",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a published comment piece on a paper arguing that household quarantine and contact tracing would have been sufficient to end the pandemic. We were arguing that it would not have been sufficient.↩︎"
   }
 ]

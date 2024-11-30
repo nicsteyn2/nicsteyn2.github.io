@@ -1,0 +1,118 @@
+---
+title: ""
+toc: true
+lightbox: true
+---
+
+
+# Pre-prints
+
+**Steyn, N.**, & Parag, K. V. Robust uncertainty quantification in popular estimators of the instantaneous reproduction number. *medRxiv preprint*. [https://doi.org/10.1101/2024.10.22.24315918](https://doi.org/10.1101/2024.10.22.24315918)
+
+**Steyn, N.**,  Parag, K. V., & Donnelly, C. A. A primer on inference and prediction with epidemic renewal models using sequential Monte Carlo methods. [Link to PDF](https://github.com/nicsteyn2/SMCforRt/blob/main/workingpaper.pdf)
+
+
+# Online resources
+
+[SMC and epidemic renewal models](https://nicsteyn2.github.io/SMCforRt/): an online "book" demonstrating sequential Monte Carlo methods for fitting epidemic renewal models. Accompanies *A primer on inference and prediction with epidemic renewal models using sequential Monte Carlo methods*.
+
+[Rt estimators in Julia](https://nicsteyn2.github.io/RobustRtEstimators/): short vignettes accompanying the code provided in the [GitHub repository](https://github.com/nicsteyn2/RobustRtEstimators) for *Robust uncertainty quantification in popular estimators of the instantaneous reproduction number*. Provides Julia implementation of EpiEstim and EpiFilter, as well as the corresponding parameter fitting methodology developed in the paper.
+
+
+
+# Posters
+
+<div style="max-width: 600px; margin: 1 auto;">
+
+::: {layout-ncol=2}
+
+![Presented at IDM 2024. Download [here](../files/posters/idm_poster_2024.pdf).](../files/posters/idm_poster_2024.png)
+
+![Presented at EPIDEMICS 2023. Download [here](../files/posters/epidemics_poster_2023.pdf).](../files/posters/epidemics_poster_2023.png)
+
+:::
+
+</div>
+
+
+# Publications
+
+### 2024
+
+Watson, L. M., Plank, M. J., Armstrong, B. A., Chapman, J. R., Hewitt, J., Morris, H., Orsi, A., Bunce, M., Donnelly, C. A., & **Steyn, N**. Jointly estimating epidemiological dynamics of Covid-19 from case and wastewater data in Aotearoa New Zealand. *Communications Medicine*. [https://doi.org/10.1038/s43856-024-00570-3](https://doi.org/10.1038/s43856-024-00570-3)
+
+### 2023
+
+Binny, R. N., Priest, P., French, N. P., Parry, M., Lustig, A., Hendy, S. C., Maclaren, O. J., Ridings, K. M., **Steyn, N.**, Vattiato, G., & Plank, M. J. Sensitivity of Reverse Transcription Polymerase Chain Reaction Tests for Severe Acute Respiratory Syndrome Coronavirus 2 Through Time. *The Journal of Infectious Diseases*. [https://doi.org/10.1093/infdis/jiac317](https://doi.org/10.1093/infdis/jiac317)
+
+Elliott, P., Whitaker, M., Tang, D., Eales, O., **Steyn, N.**, Bodinier, B., Wang, H., Elliott, J., Atchison, C., Ashby, D., Barclay, W., Taylor, G., Darzi, A., Cooke, G. S., Ward, H., Donnelly, C. A., Riley, S., & Chadeau-Hyam, M. Design and Implementation of a National SARS-CoV-2 Monitoring Program in England: REACT-1 Study. *American Journal of Public Health*. [https://doi.org/10.2105/AJPH.2023.307230](https://doi.org/10.2105/AJPH.2023.307230)
+
+
+### 2022
+
+Elliott, P., Eales, O., **Steyn, N.**, Tang, D., Bodinier, B., Wang, H., Elliott, J., Whitaker, M., Atchison, C., Diggle, P. J., Page, A. J., Trotter, A. J., Ashby, D., Barclay, W., Taylor, G., Ward, H., Darzi, A., Cooke, G. S., Donnelly, C. A., & Chadeau-Hyam, M. Twin peaks: the Omicron SARS-CoV-2 BA. 1 and BA. 2 epidemics in England. *Science*. [https://doi.org/10.1126/science.abq4411](https://doi.org/10.1126/science.abq4411)
+
+Plank, M. J., James, A., Lustig, A., **Steyn, N.**, Binny, R. N., & Hendy, S. C. Potential reduction in transmission of COVID-19 by digital contact tracing systems: a modelling study. *Mathematical Medicine and Biology*. [https://doi.org/10.1093/imammb/dqac002](https://doi.org/10.1093/imammb/dqac002)
+
+**Steyn, N.**, Lustig, A., Hendy, S. C., Binny, R. N., & Plank, M. J. Effect of vaccination, border testing, and quarantine requirements on the risk of COVID-19 in New Zealand: A modelling study. *Infectious Disease Modelling*. [https://doi.org/10.1016/j.idm.2021.12.006](https://doi.org/10.1016/j.idm.2021.12.006)
+
+**Steyn, N.**, Plank, M. J., Binny, R. N., Hendy, S. C., Lustig, A., & Ridings, K. A COVID-19 vaccination model for Aotearoa New Zealand. *Scientific Reports* [https://doi.org/10.1038/s41598-022-06707-5](https://doi.org/10.1038/s41598-022-06707-5)
+
+### 2021
+
+Hendy, S., **Steyn, N.**, James, A., Plank, M. J., Hannah, K., Binny, R. N., & Lustig, A. Mathematical modelling to inform New Zealand’s COVID-19 response. *Journal of the Royal Society of New Zealand*. [https://doi.org/10.1080/03036758.2021.1876111](https://doi.org/10.1080/03036758.2021.1876111)
+
+James, A., Plank, M. J., Hendy, S., Binny, R., Lustig, A., **Steyn, N.**, Nesdale, A., & Verrall, A. Successful contact tracing systems for COVID-19 rely on effective quarantine and isolation. *PLoS One*. [https://doi.org/10.1371/journal.pone.0252499](https://doi.org/10.1371/journal.pone.0252499)
+
+**Steyn, N.**, Binny, R. N., Hannah, K., Hendy, S., James, A., Lustig, A., Ridings, K., Plank, M. J., & Sporle, A. Māori and Pacific People in New Zealand have higher risk of hospitalisation for COVID-19. *New Zealand Medical Journal*. [Link to PDF](https://nzmj.org.nz/media/pages/journal/vol-134-no-1538/maori-and-pacific-people-in-new-zealand-have-a-higher-risk-of-hospitalisation-for-covid-19/55602a1fe7-1696476650/maori-and-pacific-people-in-new-zealand-have-a-higher-risk-of-hospitalisation-for-covid-19-open-access.pdf)
+
+James, A., Plank, M. J., Binny, R. N., Lustig, A., Hannah, K., Hendy, S. C., & **Steyn, N.** A structured model for COVID-19 spread: modelling age and healthcare inequities. *Mathematical Medicine and Biology*. [https://doi.org/10.1093/imammb/dqab006](https://doi.org/10.1093/imammb/dqab006)
+
+Binny, R. N., Baker, M. G., Hendy, S. C., James, A., Lustig, A., Plank, M. J., Ridings, K. M., & **Steyn, N.** Early intervention is the key to success in COVID-19 control. *Royal Society Open Science*. [https://doi.org/10.1098/rsos.210488](https://doi.org/10.1098/rsos.210488)
+
+**Steyn, N.**, Plank, M. J., James, A., Binny, R. N., Hendy, S. C., & Lustig, A. Managing the risk of a COVID-19 outbreak from border arrivals. *Journal of the Royal Society Interface*. [https://doi.org/10.1098/rsif.2021.0063](https://doi.org/10.1098/rsif.2021.0063)
+
+Plank, M., James, A., & **Steyn, N.** Comment: weekly COVID-19 testing with household quarantine and contact tracing is feasible and would probably end the epidemic[^1]. *Royal Society Open Science*. [https://doi.org/10.1098/rsos.201546](https://doi.org/10.1098/rsos.201546)
+
+[^1]: This is a published comment piece on a paper arguing that household quarantine and contact tracing would have been sufficient to end the pandemic. We were arguing that it would **not** have been sufficient.
+
+James, A., Plank, M. J., Hendy, S., Binny, R. N., Lustig, A., & **Steyn, N.** Model-free estimation of COVID-19 transmission dynamics from a complete outbreak. *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0238800](https://doi.org/10.1371/journal.pone.0238800)
+
+### 2020
+
+**Steyn, N.**, Binny, R. N., Hannah, K., Hendy, S., James, A., Kukutai, T., Lustig, A., McLeod, M., Plank, M. J., Ridings, K., & Sporle, A. Estimated inequities in COVID-19 infection fatality rates by ethnicity for Aotearoa New Zealand. *New Zealand Medical Journal*. [Link to PDF](https://nzmj.org.nz/media/pages/journal/vol-133-no-1521/estimated-inequities-in-covid-19-infection-fatality-rates-by-ethnicity-for-aotearoa-new-zealand/9bb9847717-1696476126/estimated-inequities-in-covid-19-infection-fatality-rates-by-ethnicity-for-aotearoa-new-zealand-open-access.pdf)
+
+
+# Technical reports
+
+**Steyn, N.**, Plank, M. J., & Hendy, S. C. Modelling to support a future COVID-19 strategy for Aotearoa New Zealand. (2021). [Link to PDF](https://bpb-ap-se2.wpmucdn.com/blogs.auckland.ac.nz/dist/d/75/files/2017/01/modelling-to-support-a-future-covid-19-strategy-for-aotearoa-new-zealand.pdf)
+
+**Steyn, N.**, Hendy, S., Plank, M., & Binny, R. Technical report: modelling the potential spread of COVID-19 during the August 2021 outbreak. (2021).  [Link to PDF](https://bpb-ap-se2.wpmucdn.com/blogs.auckland.ac.nz/dist/d/75/files/2017/01/technical-report-28-august.pdf)
+
+James, A., Binny, R. N., Hendy, S. C., Lustig, A., **Steyn, N.**, & Plank, M. J. Economic comparison of the use of Alert Levels 3 and 4 in eliminating the Auckland August outbreak: a cost-effectiveness analysis 21 October 2020. (2020). [Link to PDF](https://bpb-ap-se2.wpmucdn.com/blogs.auckland.ac.nz/dist/d/75/files/2020/11/Economic-comparison-Auckland-August-outbreak_forTPMwebpage_21Oct.pdf)
+
+Binny, R. N., Hendy, S. C., James, A., Lustig, A., Plank, M. J., & **Steyn, N.** Probability of elimination for COVID-19 in Aotearoa New Zealand. (2020). [https://doi.org/10.1101/2020.08.10.20172361](https://doi.org/10.1101/2020.08.10.20172361)
+
+Binny, R. N., Lustig, A., Brower, A., Hendy, S. C., James, A., Parry, M., Plank, M. J., & **Steyn, N.** Effective reproduction number for COVID-19 in Aotearoa New Zealand. (2020). [https://doi.org/10.1101/2020.08.10.20172320](https://doi.org/10.1101/2020.08.10.20172320)
+
+Binny, R. N., Hendy, S. C., James, A., Lustig, A., Plank, M. J., & **Steyn, N.** Effect of Alert Level 4 on Reff: review of international COVID-19 cases. (2020). [https://doi.org/10.1101/2020.04.30.20086934](https://doi.org/10.1101/2020.04.30.20086934)
+
+Plank, M. J., Binny, R. N., Hendy, S. C., Lustig, A., James, A., & **Steyn, N.** A stochastic model for COVID-19 spread and the effects of Alert Level 4 in Aotearoa New Zealand. (2020). [https://doi.org/10.1101/2020.04.08.20058743](https://doi.org/10.1101/2020.04.08.20058743)
+
+James, A., Hendy, S. C., Plank, M. J., & **Steyn, N.** Suppression and mitigation strategies for control of COVID-19 in New Zealand. (2020). [https://doi.org/10.1101/2020.03.26.20044677](https://doi.org/10.1101/2020.03.26.20044677)
+
+# Media
+
+**Steyn, N.**, & Plank, M. J. Why strict border control remains crucial if we want to keep the travel bubble safe. *The Conversation.* 21 April 2021. [Link](https://theconversation.com/why-strict-border-control-remains-crucial-if-we-want-to-keep-the-travel-bubble-safe-159325)
+
+Plank, M. J., James, A., **Steyn, N.**, & Hendy, S. C. Auckland’s rapid lockdown has given New Zealand a better chance of eliminating coronavirus – again. *The Conversation.* 28 August 2020. [Link](https://theconversation.com/aucklands-rapid-lockdown-has-given-new-zealand-a-better-chance-of-eliminating-coronavirus-again-145011)
+
+**Steyn, N.**, Plank, M. J., James, A., Binny, R. N., Lustig, A., & Hendy, S. C. A critical error in a report on lockdown timing risks undermining future decisions. *The Spinoff.* 10 August 2020. [Link](https://thespinoff.co.nz/society/10-08-2020/a-critical-error-in-a-report-on-lockdown-timing-risks-undermining-future-decisions)
+
+Plank, M. J., James, A., Lustig, A., **Steyn, N.**, Binny, R. N., & Hendy, S. C. A new community case of COVID-19 in New Zealand is a matter of when, not if. Is the country prepared for it? *The Conversation.* 10 August 2020. [Link](https://theconversation.com/a-new-community-case-of-covid-19-in-new-zealand-is-a-matter-of-when-not-if-is-the-country-prepared-for-it-143746)
+
+Plank, M. J., James, A., Lustig, A., **Steyn, N.**, Binny, R. N., & Hendy, S. C. How New Zealand could keep eliminating coronavirus at its border for months to come, even as the global pandemic worsens. *The Conversation.* 16 July 2020. [Link](https://theconversation.com/how-new-zealand-could-keep-eliminating-coronavirus-at-its-border-for-months-to-come-even-as-the-global-pandemic-worsens-142368)
+
+Plank, M. J., James, A., Lustig, A., **Steyn, N.**, Binny, R. N., & Hendy, S. C. 2 new COVID-19 cases in New Zealand, but elimination of community transmission still stands. *The Conversation.* 16 June 2020. [Link](https://theconversation.com/2-new-covid-19-cases-in-new-zealand-but-elimination-of-community-transmission-still-stands-140843)
+
+Plank, M. J., James, A., Lustig, A., **Steyn, N.**, Binny, R. N., & Hendy, S. C. New Zealand hits a 95% chance of eliminating coronavirus – but we predict new cases will emerge. *The Conversation.* 4 June 2020. [Link](https://theconversation.com/new-zealand-hits-a-95-chance-of-eliminating-coronavirus-but-we-predict-new-cases-will-emerge-139973)
