@@ -5,11 +5,13 @@ lightbox: true
 ---
 
 
-# Pre-prints
+# Preprints
 
 **Steyn, N.**, & Parag, K. V. Robust uncertainty quantification in popular estimators of the instantaneous reproduction number. *medRxiv preprint*. [https://doi.org/10.1101/2024.10.22.24315918](https://doi.org/10.1101/2024.10.22.24315918)
 
 **Steyn, N.**,  Parag, K. V., & Donnelly, C. A. A primer on inference and prediction with epidemic renewal models using sequential Monte Carlo methods. [Link to PDF](https://github.com/nicsteyn2/SMCforRt/blob/main/workingpaper.pdf)
+
+**Steyn, N.**, Unwin, H. J. T., Ponmattam, J., et al. Regional and national estimates of children affected by all-cause and COVID-19-associated orphanhood and caregiver death in Brazil, by age and family circumstance. *medRxiv preprint*. [https://doi.org/10.1101/2025.01.31.25321479](https://doi.org/10.1101/2025.01.31.25321479)
 
 
 # Online resources
@@ -116,3 +118,8 @@ Plank, M. J., James, A., Lustig, A., **Steyn, N.**, Binny, R. N., & Hendy, S. C.
 Plank, M. J., James, A., Lustig, A., **Steyn, N.**, Binny, R. N., & Hendy, S. C. 2 new COVID-19 cases in New Zealand, but elimination of community transmission still stands. *The Conversation.* 16 June 2020. [Link](https://theconversation.com/2-new-covid-19-cases-in-new-zealand-but-elimination-of-community-transmission-still-stands-140843)
 
 Plank, M. J., James, A., Lustig, A., **Steyn, N.**, Binny, R. N., & Hendy, S. C. New Zealand hits a 95% chance of eliminating coronavirus – but we predict new cases will emerge. *The Conversation.* 4 June 2020. [Link](https://theconversation.com/new-zealand-hits-a-95-chance-of-eliminating-coronavirus-but-we-predict-new-cases-will-emerge-139973)
+
+# Awards
+
+[**Prime Minister's Science Prize**](https://pmscienceprizes.org.nz). 2020.
+Awarded for a "transformative scientific discovery or achievement" with a significant impact on New Zealand. This was awarded for our work on modelling during the COVID-19 pandemic in New Zealand.
