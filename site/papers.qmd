@@ -13,6 +13,7 @@ lightbox: true
 
 **Steyn, N.**, Unwin, H. J. T., Ponmattam, J., et al. Regional and national estimates of children affected by all-cause and COVID-19-associated orphanhood and caregiver death in Brazil, by age and family circumstance. *medRxiv preprint*. [https://doi.org/10.1101/2025.01.31.25321479](https://doi.org/10.1101/2025.01.31.25321479)
 
+**Steyn, N.**, Chadeau-Hyam, M., Whitaker, M., et al. Pandemic-risk-related behaviour change in England from June 2020 to March 2022: REACT-1 study among over 2 million people. *medRxiv preprint*. [https://doi.org/10.1101/2025.03.03.25323250](https://doi.org/10.1101/2025.03.03.25323250)
 
 # Online resources
 
@@ -20,6 +21,7 @@ lightbox: true
 
 [Rt estimators in Julia](https://nicsteyn2.github.io/RobustRtEstimators/): short vignettes accompanying the code provided in the [GitHub repository](https://github.com/nicsteyn2/RobustRtEstimators) for *Robust uncertainty quantification in popular estimators of the instantaneous reproduction number*. Provides Julia implementation of EpiEstim and EpiFilter, as well as the corresponding parameter fitting methodology developed in the paper.
 
+[Pandemic-risk-related behavioural data portal](https://m-whit-ic.shinyapps.io/react-social-shiny/): an R shiny server hosting a large quantity of aggregated data on pandemic-risk-related behaviours in England, collected as part of the REACT-1 study. By making these data publicly available, we hope to enable further research. Methodology can be found in our [preprint](https://doi.org/10.1101/2025.03.03.25323250).
 
 
 # Posters
