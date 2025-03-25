@@ -6,11 +6,19 @@ website:
   title: "Nic Steyn"
   search: false
   navbar:
+    left:
+      - icon: github
+        href: https://github.com/nicsteyn2
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=DyNrh4cAAAAJ
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nic-steyn/
     right:
       - href: index.qmd
         text: Home
       - href: papers.qmd
         text: Research outputs
+
 
 format:
   html:
