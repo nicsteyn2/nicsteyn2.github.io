@@ -7,9 +7,9 @@ lightbox: true
 
 # Preprints
 
-**Steyn, N.**, & Parag, K. V. (2025). Robust uncertainty quantification in popular estimators of the instantaneous reproduction number. *medRxiv preprint*. [https://doi.org/10.1101/2024.10.22.24315918](https://doi.org/10.1101/2024.10.22.24315918)
+**Steyn, N.**, & Parag, K. V. (2025). Robust uncertainty quantification in popular estimators of the instantaneous reproduction number. *Accepted at American Journal of Epidemiology*. Preprint accessible here: [https://doi.org/10.1101/2024.10.22.24315918](https://doi.org/10.1101/2024.10.22.24315918)
 
-**Steyn, N.**,  Parag, K. V., Thompson, R. N., & Donnelly, C. A. (2025). A primer on inference and prediction with epidemic renewal models using sequential Monte Carlo methods. *arXiv preprint*. [https://doi.org/10.48550/arXiv.2503.18875](https://doi.org/10.48550/arXiv.2503.18875)
+**Steyn, N.**,  Parag, K. V., Thompson, R. N., & Donnelly, C. A. (2025). A primer on inference and prediction with epidemic renewal models using sequential Monte Carlo methods. *Accepted at Statistics in Medicine*. Preprint accessible here: [https://doi.org/10.48550/arXiv.2503.18875](https://doi.org/10.48550/arXiv.2503.18875)
 
 **Steyn, N.**, Chadeau-Hyam, M., Elliott, P., & Donnelly, C. A. (2025). Bayesian modelling of repeated cross-sectional epidemic prevalence survey data. *medRxiv preprint*. [https://doi.org/10.1101/2025.04.16.25325936](https://doi.org/10.1101/2025.04.16.25325936)
 
