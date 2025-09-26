@@ -9,18 +9,17 @@ lightbox: true
 
 **Steyn, N.**, & Parag, K. V. (2025). Robust uncertainty quantification in popular estimators of the instantaneous reproduction number. *American Journal of Epidemiology*. [https://doi.org/10.1093/aje/kwaf165](https://doi.org/10.1093/aje/kwaf165)
 
-Ogi-Gittins, I., **Steyn, N.**, Polonsky, J., Hart, W. S., Keita, M., Ahuka-Mundeke, S., Hill, E. M., & Thompson, R. N. (2025). Simulation-based inference of the time-dependent reproduction number from temporally aggregated and under-reported disease incidence time series data. *Philosophical Transactions of the Royal Society A*. [http://doi.org/10.1098/rsta.2024.0412](https://royalsocietypublishing.org/doi/10.1098/rsta.2024.0412)
+**Steyn, N.**,  Parag, K. V., Thompson, R. N., & Donnelly, C. A. (2025). A primer on inference and prediction with epidemic renewal models and sequential Monte Carlo. *Statistics in Medicine*. [https://doi.org/10.1002/sim.70204](https://doi.org/10.1002/sim.70204)
+
+**Steyn, N.**, Chadeau-Hyam, M., Elliott, P., & Donnelly, C. A. (2025). Bayesian modelling of repeated cross-sectional epidemic prevalence survey data. *Accepted in PLOS Computational Biology*. Preprint available here: [https://doi.org/10.1101/2025.04.16.25325936](https://doi.org/10.1101/2025.04.16.25325936)
+
+**Steyn, N.**, Unwin, H. J. T., Ponmattam, J., et al. (2025). Regional and national estimates of children affected by all-cause and COVID-19-associated orphanhood and caregiver death in Brazil, by age and family circumstance. *Accepted in The Lancet Regional Health Americas*. Preprint available here: [https://doi.org/10.1101/2025.01.31.25321479](https://doi.org/10.1101/2025.01.31.25321479)
 
 *A complete list of publications can be found lower on this page.*
 
 # Preprints
 
-
-**Steyn, N.**,  Parag, K. V., Thompson, R. N., & Donnelly, C. A. (2025). A primer on inference and prediction with epidemic renewal models using sequential Monte Carlo methods. *Accepted at Statistics in Medicine*. Preprint accessible here: [https://doi.org/10.48550/arXiv.2503.18875](https://doi.org/10.48550/arXiv.2503.18875)
-
-**Steyn, N.**, Chadeau-Hyam, M., Elliott, P., & Donnelly, C. A. (2025). Bayesian modelling of repeated cross-sectional epidemic prevalence survey data. *medRxiv preprint*. [https://doi.org/10.1101/2025.04.16.25325936](https://doi.org/10.1101/2025.04.16.25325936)
-
-**Steyn, N.**, Unwin, H. J. T., Ponmattam, J., et al. (2025). Regional and national estimates of children affected by all-cause and COVID-19-associated orphanhood and caregiver death in Brazil, by age and family circumstance. *medRxiv preprint*. [https://doi.org/10.1101/2025.01.31.25321479](https://doi.org/10.1101/2025.01.31.25321479)
+**Steyn, N.**, Bickford Smith, F., Mills, C., et al. (2025). A decision-theoretic framework for uncertainty quantification in epidemiological modelling. *arXiv preprint*. [https://doi.org/10.48550/arXiv.2509.20013](https://doi.org/10.48550/arXiv.2509.20013)
 
 **Steyn, N.**, Chadeau-Hyam, M., Whitaker, M., et al. (2025). Pandemic-risk-related behaviour change in England from June 2020 to March 2022: REACT-1 study among over 2 million people. *medRxiv preprint*. [https://doi.org/10.1101/2025.03.03.25323250](https://doi.org/10.1101/2025.03.03.25323250)
 
