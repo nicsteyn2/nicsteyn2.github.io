@@ -15,7 +15,7 @@ website:
         href: https://www.linkedin.com/in/nic-steyn/
     right:
       - href: index.qmd
-        text: Home
+        text: About me
       - href: papers.qmd
         text: Research outputs
 
