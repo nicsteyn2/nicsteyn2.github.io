@@ -3,7 +3,7 @@ project:
   output-dir: ..
 
 website:
-  title: "Nic Steyn"
+  title: "Dr Nic Steyn"
   search: false
   navbar:
     left:
