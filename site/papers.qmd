@@ -111,8 +111,6 @@ Binny, R. N., Baker, M. G., Hendy, S. C., James, A., Lustig, A., Plank, M. J., R
 
 Plank, M., James, A., & **Steyn, N.** (2021). Comment: weekly COVID-19 testing with household quarantine and contact tracing is feasible and would probably end the epidemic[^1]. *Royal Society Open Science*. [https://doi.org/10.1098/rsos.201546](https://doi.org/10.1098/rsos.201546)
 
-[^1]: This is a published comment piece on a paper arguing that household quarantine and contact tracing would have been sufficient to end the pandemic. We were arguing that it would **not** have been sufficient.
-
 James, A., Plank, M. J., Hendy, S., Binny, R. N., Lustig, A., & **Steyn, N.** (2021). Model-free estimation of COVID-19 transmission dynamics from a complete outbreak. *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0238800](https://doi.org/10.1371/journal.pone.0238800)
 
 ### 2020
